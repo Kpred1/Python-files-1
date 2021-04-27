@@ -1,0 +1,30 @@
+me -20
+courtney- 19
+shanda- 20
+andre- 20
+SISTER-29
+DAD- 50
+
+This is the code to create the html file
+Test_test = open("index.html", "w")
+Test_test.write("<p> Happy birthday to me test </p>")
+
+
+Test_test.close()
+
+to open python interpreter type "py" in command prompt
+
+old javascript for entering name on website
+myButton.onclick = function() {
+    setUserName(); }
+let myButton = document.querySelector('button');
+let myHeading = document.querySelector('h1');
+function setUserName() {
+    let myName = prompt('Please enter your name.');
+    localStorage.setItem('name', myName);
+    myHeading.textContent = 'Insert name is turning insert age! Welcome, ' + myName;
+  }
+
+thi goes in the html file to use the javascript
+<button>Change name</button>
+<script src="scripts/main.js"></script> 
