@@ -1,9 +1,9 @@
 me -20
-courtney- 19
-shanda- 20
-andre- 20
-SISTER-29
-DAD- 50
+pedro- 19
+krypto- 20
+Max- 20
+Alex-29
+Rob- 50
 
 This is the code to create the html file
 Test_test = open("index.html", "w")
